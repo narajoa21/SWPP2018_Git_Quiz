@@ -23,7 +23,9 @@ int main(){
 }
 
 int add(int a, int b) {
-  return 0; // TODO : FIX IT
+  int value;
+  value = a + b;
+  return value; // TODO : FIX IT
 }
 
 int sub(int a, int b) {
